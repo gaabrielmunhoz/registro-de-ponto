@@ -1,8 +1,6 @@
-# Sensible defaults for public releases
-.env
-.env.*
-!.env.example
-.DS_Store
-
-# Composer vendor directory should be generated as needed
 /vendor/
+.env
+/.idea
+/.vscode
+/vendor-bin/
+/composer.phar
