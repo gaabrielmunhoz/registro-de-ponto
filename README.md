@@ -3,10 +3,14 @@
 [![PHP](https://img.shields.io/badge/PHP-%5E8.1-blue)](#)
 [![Composer](https://img.shields.io/badge/Composer-ready-green)](#)
 
-Sistema simples de **registro de ponto**. Permite **login**, **bater ponto**, **recuperar senha** e **verificar e exportar a folha** por período.
+Sistema simples de **registro de ponto**. Permite **login**, **bater ponto**, **recuperar senha**, **verificar e exportar a folha** por período.
 
-> 🎥 **Demonstração rápida (GIF):**  
-> *(adicione aqui um GIF ou screenshots do fluxo login → bater ponto → exportar)*
+> 🎥 **Demonstração de uso:**  
+
+
+https://github.com/user-attachments/assets/63d382a1-a8fe-45b1-b27c-a3e485f649a5
+
+
 
 ---
 
