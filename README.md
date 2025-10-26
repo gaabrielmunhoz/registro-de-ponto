@@ -2,7 +2,6 @@
 
 [![PHP](https://img.shields.io/badge/PHP-%5E8.1-blue)](#)
 [![Composer](https://img.shields.io/badge/Composer-ready-green)](#)
-[![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)](#)
 
 Sistema simples de **registro de ponto**. Permite **login**, **bater ponto**, **recuperar senha** e **verificar e exportar a folha** por período.
 
